@@ -1,0 +1,108 @@
+UNKNOWN {
+	FONT-FAMILY: tahoma; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px
+}
+TR {
+	FONT-FAMILY: tahoma; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px
+}
+THEAD TR {
+	FONT-FAMILY: tahoma; BACKGROUND: url(images/grid_header.gif) #dcdcdc repeat-x
+}
+TD.nowrap {
+	
+}
+THEAD TD {
+	FONT-FAMILY: tahoma; BACKGROUND: url(images/grid_header.gif) #dcdcdc repeat-x
+}
+TH.sorted {
+	FONT-FAMILY: tahoma; BACKGROUND: url(images/grid_header.gif) #b7cee2 repeat-x
+}
+TH A {
+	FONT-FAMILY: tahoma; COLOR: black
+}
+TH A:visited {
+	FONT-FAMILY: tahoma; COLOR: black
+}
+TH A:hover {
+	FONT-FAMILY: tahoma; COLOR: black
+}
+TH.sorted A {
+	FONT-FAMILY: tahoma; BACKGROUND-POSITION: right 50%; TEXT-DECORATION: none; DISPLAY: block; WIDTH: 100%
+}
+TH.sortable A {
+	FONT-FAMILY: tahoma; BACKGROUND-POSITION: right 50%; TEXT-DECORATION: none; DISPLAY: block; WIDTH: 100%
+}
+TH.sortable A {
+	HEIGHT: 17px; FONT-FAMILY: Arial; BACKGROUND-IMAGE: url(../images/arrow_off.png); BACKGROUND-REPEAT: no-repeat; COLOR: #fff; TEXT-DECORATION: none
+}
+TH.order1 A {
+	FONT-FAMILY: tahoma; BACKGROUND-IMAGE: url(../images/arrow_down.png); BACKGROUND-REPEAT: no-repeat; TEXT-DECORATION: none
+}
+TH.order2 A {
+	FONT-FAMILY: tahoma; BACKGROUND-IMAGE: url(../images/arrow_up.png); BACKGROUND-REPEAT: no-repeat; TEXT-DECORATION: none
+}
+TR.odd {
+	FONT-FAMILY: tahoma; BACKGROUND-COLOR: #fff
+}
+TR.tableRowEven {
+	FONT-FAMILY: tahoma; BACKGROUND-COLOR: #eeeeee
+}
+TR.even {
+	FONT-FAMILY: tahoma; BACKGROUND-COLOR: #eeeeee
+}
+DIV.exportlinks {
+	BORDER-TOP: #999 1px dotted; FONT-FAMILY: tahoma; BORDER-RIGHT: #999 1px dotted; BORDER-BOTTOM: #999 1px dotted; PADDING-BOTTOM: 2px; PADDING-TOP: 2px; PADDING-LEFT: 4px; MARGIN: 2px 0px 10px; BORDER-LEFT: #999 1px dotted; PADDING-RIGHT: 4px; WIDTH: 100%; BACKGROUND-COLOR: #eee
+}
+SPAN.export {
+	CURSOR: pointer; FONT-FAMILY: tahoma; PADDING-BOTTOM: 1px; PADDING-TOP: 0px; PADDING-LEFT: 20px; DISPLAY: inline-block; PADDING-RIGHT: 4px
+}
+SPAN.excel {
+	FONT-FAMILY: tahoma; BACKGROUND-IMAGE: url(../images/ico_file_excel.png)
+}
+SPAN.csv {
+	FONT-FAMILY: tahoma; BACKGROUND-IMAGE: url(../images/ico_file_csv.png)
+}
+SPAN.xml {
+	FONT-FAMILY: tahoma; BACKGROUND-IMAGE: url(../images/ico_file_xml.png)
+}
+SPAN.pdf {
+	FONT-FAMILY: tahoma; BACKGROUND-IMAGE: url(../images/ico_file_pdf.png)
+}
+SPAN.rtf {
+	FONT-FAMILY: tahoma; BACKGROUND-IMAGE: url(../images/ico_file_rtf.png)
+}
+SPAN.pagebanner {
+	BORDER-TOP: #999 1px dotted; HEIGHT: 0px; BORDER-RIGHT: #999 1px dotted; BORDER-BOTTOM: #999 1px; COLOR: #eee; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px; BORDER-LEFT: #999 1px dotted; DISPLAY: none; PADDING-RIGHT: 0px; WIDTH: 100%; BACKGROUND-COLOR: white
+}
+SPAN.pagelinks {
+	BORDER-LEFT-WIDTH: 1px; MARGIN-BOTTOM: -5px; BORDER-TOP: #999 1px; FONT-FAMILY: tahoma; BORDER-RIGHT-WIDTH: 1px; BORDER-BOTTOM-WIDTH: 1px; BORDER-BOTTOM-COLOR: #999; PADDING-TOP: 4px; DISPLAY: block; BORDER-RIGHT-COLOR: #999; WIDTH: 100%; BACKGROUND-COLOR: white; BORDER-LEFT-COLOR: #999
+}
+.group-1 {
+	BORDER-TOP: black 1px solid; FONT-WEIGHT: bold; PADDING-BOTTOM: 10px
+}
+.group-2 {
+	BORDER-TOP: black 1px solid; FONT-STYLE: italic
+}
+.subtotal-sum {
+	FONT-WEIGHT: bold; TEXT-ALIGN: right
+}
+.grandtotal-sum {
+	FONT-WEIGHT: bold; TEXT-ALIGN: right
+}
+.subtotal-header {
+	BORDER-TOP: white 1px solid; PADDING-BOTTOM: 0px
+}
+.subtotal-label {
+	BORDER-TOP: white 1px solid; FONT-WEIGHT: bold
+}
+.grandtotal-label {
+	BORDER-TOP: white 1px solid; FONT-WEIGHT: bold
+}
+.grouped-table TR.even {
+	BACKGROUND-COLOR: #fff
+}
+.grouped-table TR.odd {
+	BACKGROUND-COLOR: #fff
+}
+.grandtotal-row {
+	BORDER-TOP: black 2px solid
+}

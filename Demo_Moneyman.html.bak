@@ -11,9 +11,9 @@
 <LINK rel=stylesheet type=text/css href="Search%20-%20Global%20CT_files/jquery.css" media=screen>
 <LINK rel=stylesheet type=text/css href="Search%20-%20Global%20CT_files/displaytag.css" media=screen>
 <SCRIPT type=text/javascript src="Search%20-%20Global%20CT_files/alertMessages.htm"></SCRIPT>
-<link rel="stylesheet" type="text/css" href="css/reset.css" />
+<!--<link rel="stylesheet" type="text/css" href="css/reset.css" />
 <link rel="stylesheet" type="text/css" href="css/index.css" />
-<!--<link type="text/css" href="themes/base/jquery.ui.all.css" rel="stylesheet" />
+<link type="text/css" href="themes/base/jquery.ui.all.css" rel="stylesheet" />
 <link type="text/css" href="themes/base/jquery.ui.selectmenu.css" rel="stylesheet" />
 <link rel="stylesheet" type="text/css" href="css/ie7.css" />
 <!--[if IE 7]>

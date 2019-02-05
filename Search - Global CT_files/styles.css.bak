@@ -1,0 +1,90 @@
+IMG {
+	BORDER-LEFT-WIDTH: 0px; BORDER-RIGHT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-TOP-WIDTH: 0px
+}
+#Header {
+	OVERFLOW: hidden; HEIGHT: 82px; BACKGROUND: url(../images/header_bg1.gif) #0097B8 repeat-x 100% 0px; COLOR: #0097B8; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 10px; PADDING-RIGHT: 10px
+}
+#Header #Logo {
+	FLOAT: left; MARGIN-TOP: 4px; WIDTH: 80px
+}
+#MainContainer {
+	OVERFLOW: hidden; POSITION: relative; PADDING-BOTTOM: 10px; PADDING-TOP: 10px; PADDING-LEFT: 0px; MIN-HEIGHT: 400px; Z-INDEX: 100; PADDING-RIGHT: 0px
+}
+.MainContBg {
+	BACKGROUND: url(../images/leftcolumn_bg.gif) #fff repeat-y 0px 0px
+}
+#LeftColumn {
+	FLOAT: left; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; WIDTH: 180px
+}
+#LeftColumn .LeftMenu LI {
+	PADDING-BOTTOM: 10px; PADDING-TOP: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px
+}
+#LeftColumn .LeftMenu LI A {
+	BORDER-TOP: #cbcbcb 1px solid; HEIGHT: 34px; BORDER-RIGHT: #cbcbcb 1px solid; BACKGROUND: url(../images/leftmenu_bg.gif) repeat-x 0px 0px; BORDER-BOTTOM: #cbcbcb 1px solid; COLOR: #484848; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; FONT: bold 13px/32px Arial; PADDING-LEFT: 10px; BORDER-LEFT: #cbcbcb 1px solid; DISPLAY: block; PADDING-RIGHT: 10px
+}
+#LeftColumn .LeftMenu LI A:hover {
+	BACKGROUND: url(../images/leftmenu_bg_hover.gif) repeat-x 0px 0px; COLOR: #fff; TEXT-DECORATION: none
+}
+#LeftColumn .LeftMenu LI A.active {
+	BACKGROUND: url(../images/leftmenu_bg_hover.gif) repeat-x 0px 0px; COLOR: #fff; TEXT-DECORATION: none
+}
+
+.Section {
+	BORDER-TOP: #ccc 1px solid; BORDER-RIGHT: #ccc 1px solid; BORDER-BOTTOM: #ccc 1px solid; BORDER-LEFT: #ccc 1px solid; MARGIN-RIGHT: 4px; width:1125px
+}
+
+.Section1 {
+	BORDER-TOP: #ccc 1px solid; BORDER-RIGHT: #ccc 1px solid; BORDER-BOTTOM: #ccc 1px solid; BORDER-LEFT: #ccc 1px solid; MARGIN-RIGHT: 4px; HEIGHT:500px
+}
+
+.Section H1 {
+	OVERFLOW: hidden; MARGIN-BOTTOM: 4px; HEIGHT: 18px; BACKGROUND: url(../images/title_bg.gif) repeat-x 0px 0px; BORDER-BOTTOM: #ddd 1px solid; COLOR: #2a7dcb; PADDING-BOTTOM: 5px; PADDING-TOP: 0px; FONT: bold 13px Arial; PADDING-LEFT: 5px; MARGIN-TOP: 5px; PADDING-RIGHT: 0px
+}
+.menu_head {
+	CURSOR: pointer; BACKGROUND: #8abde3; POSITION: relative; COLOR: #fff; FONT: bold 13px Arial; MARGIN: 0px 0px 1px
+}
+.active.menu_head {
+	BACKGROUND: #148ae3
+}
+.selected.menu_head {
+	BACKGROUND: #0c6ba6; COLOR: #fff
+}
+.menu_head SPAN {
+	PADDING-BOTTOM: 8px; PADDING-TOP: 5px; PADDING-LEFT: 10px; DISPLAY: block; PADDING-RIGHT: 0px
+}
+.menu_head A {
+	COLOR: #fff
+}
+.menu_body {
+	DISPLAY: block
+}
+.menu_body A {
+	BACKGROUND: #fff; COLOR: #8a8a8a; PADDING-BOTTOM: 5px; PADDING-TOP: 5px; FONT: 12px Arial; PADDING-LEFT: 15px; TEXT-DECORATION: none; DISPLAY: block; PADDING-RIGHT: 15px
+}
+.menu_body A:hover {
+	BACKGROUND: #c6d4ff; COLOR: #fff; TEXT-DECORATION: none
+}
+.menu_body .subMenuSelected {
+	BACKGROUND: #f0f0f0; FONT-WEIGHT: bold; COLOR: #7a797a
+}
+.menu_head_disabled {
+	BORDER-TOP: #2781ba 1px solid; BORDER-RIGHT: #2781ba 1px solid; BACKGROUND: url(../images/leftmenu_bg_hover.gif) #369fe2 repeat-x 0px 100%; BORDER-BOTTOM: #2781ba 1px solid; POSITION: relative; COLOR: #fff; FONT: bold 13px Arial; MARGIN: 0px 0px 1px; BORDER-LEFT: #2781ba 1px solid
+}
+.menu_head_disabled SPAN {
+	BACKGROUND: url(../images/bullet.png) no-repeat 3px 8px; PADDING-BOTTOM: 8px; PADDING-TOP: 5px; PADDING-LEFT: 20px; DISPLAY: block; PADDING-RIGHT: 0px
+}
+.menu_head_disabled A {
+	COLOR: #fff
+}
+.menu_body_disabled {
+	PADDING-BOTTOM: 10px; PADDING-TOP: 0px; PADDING-LEFT: 15px; DISPLAY: none; PADDING-RIGHT: 0px
+}
+.menu_body_disabled A {
+	COLOR: #333432; PADDING-BOTTOM: 5px; PADDING-TOP: 5px; FONT: bold 12px Arial; PADDING-LEFT: 15px; TEXT-DECORATION: none; DISPLAY: block; PADDING-RIGHT: 15px
+}
+.menu_body_disabled A:hover {
+	BACKGROUND: url(../images/arrow-hover.png) #03a5ff no-repeat 5px 9px; COLOR: #ffffff; TEXT-DECORATION: underline
+}
+.menu_body_disabled .subMenuSelected {
+	BACKGROUND: url(../images/arrow-hover.png) #03a5ff no-repeat 5px 9px; COLOR: #ffffff; TEXT-DECORATION: underline
+}
