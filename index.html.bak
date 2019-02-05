@@ -140,30 +140,30 @@ src="images/logo.png">
       
          <P class=menu_head><SPAN>Management</SPAN></P>
       <DIV class=menu_body >
-	  <A class=subMenuSelected href="index.html">User</A>
-	  <A href="index.html">Role</A>
+	  <A class=subMenuSelected href="Demo_Moneyman.html">User</A>
+	  <A href="Demo_Moneyman.html">Role</A>
       </DIV>
 
 	  <P class=menu_head><SPAN>Inspections</SPAN></P>
 	  <DIV class=menu_body style="display:block";>
-	  <A href="index.html">MSC_VS_AMDOCS</A>
-	  <A href="index.html">MSC_VS_IN</A> 
-  	  <A href="index.html">GGSN_VS_SGSN</A>
-	  <A href="index.html">HLR_VS_AMDOCS</A>
+	  <A href="Demo_Moneyman.html">MSC_VS_AMDOCS</A>
+	  <A href="Demo_Moneyman.html">MSC_VS_IN</A> 
+  	  <A href="Demo_Moneyman.html">GGSN_VS_SGSN</A>
+	  <A href="Demo_Moneyman.html">HLR_VS_AMDOCS</A>
       </DIV>
 
 	  <P class=menu_head><SPAN>Reports</SPAN></P>
 	  <DIV class=menu_body style="display:block";>
-	  <A href="index.html">Open Cases Report</A> 
-	  <A href="index.html">Revenue Lekage Report</A> 
+	  <A href="Demo_Moneyman.html">Open Cases Report</A> 
+	  <A href="Demo_Moneyman.html">Revenue Lekage Report</A> 
       </DIV>
 
 	   <P class=menu_head><SPAN>Monitoring</SPAN></P>
 	   <DIV class=menu_body><A 
-      <A href="index.html">System Health</A>  
-	  <A href="index.html">Live Monitor</A>  
-	  <A href="index.html">User Logs</A>  
-	  <A href="index.html">System Logs</A> 
+      <A href="Demo_Moneyman.html">System Health</A>  
+	  <A href="Demo_Moneyman.html">Live Monitor</A>  
+	  <A href="Demo_Moneyman.html">User Logs</A>  
+	  <A href="Demo_Moneyman.html">System Logs</A> 
 	  
       </DIV>
    <!--   <P class=menu_head><SPAN>Books</SPAN></P>
